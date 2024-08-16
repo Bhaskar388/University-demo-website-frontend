@@ -1,0 +1,134 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #c3a20e;
+    color: #fff;
+    padding: 3.9cap;
+    text-align: center;
+}
+
+header .logo {
+    float: left;
+    margin-right: 0em; 
+}
+
+header .login-button {
+    float: right;
+    margin-top:em;
+}
+
+main {
+    display: block;
+    padding:3em;
+    
+}
+
+footer {
+    background-color: #000000;
+    color: #f6f6f6;
+    padding: 3.5em;
+    text-align: center;
+    clear: both;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer li {
+    margin-bottom: 0.5em;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+  
+  
+  
+  .video::after {
+  
+    content: "From walking in as a fresher with no direction and walking out at the end of the 4th year with a job in hand is probably the best transformation a person can get. The foundation of NIST is the ethics that it follows as an institution. The first and foremost attraction of NIST is the discipline that one can feel all across the campus. The rules and regulations setup by NIST are followed by everyone associated with the institute in every possible way. The ambience across NIST makes it a quiet and peaceful place to study and the greenery all around the campus just adds to the sight. Finally the important aspect which any student looks forward to the ample opportunity that NIST offers. For campus recruitment drives, some of the big industries of our country come to hire students from NIST. These industries include names like, Infosys, Wipro, Trinity India, Sankalp semiconductors, Apptus and many more. "; /* replace with your desired text */
+  
+    position: absolute;
+  
+    top: 50%;
+  
+    right:px; /* adjust the right offset as needed */
+  
+    transform: translateY(-10%);
+  
+    font-size: 16px; /* adjust the font size as needed */
+  
+    color: #000000; /* adjust the text color as needed */
+  
+  }
+  header {
+    background-color: #c5a33f;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .logo {
+    float: left;
+    margin-right: 20px;
+  }
+  
+  .logo img {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+  }
+  
+  .login-button {
+    float: right;
+    margin-top: 10px;
+  }
+  
+  .login-button button {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .login-button button:hover {
+    background-color: #555;
+  }
+  
+  hr {
+    clear: both;
+    border: none;
+    height: 1px;
+    background-color: #1a1a1a;
+  }
+  .social-media-icons {
+    margin-top: 20px;
+  }
+  
+  .social-media-icons a {
+    margin: 0 5px;
+    font-size: 20px;
+  }
+  
+  .social-media-icons a:hover {
+    color: #000000;
+  }
